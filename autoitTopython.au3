@@ -1,0 +1,1 @@
+ShellExecute("D:\PythonCode\demo0117\dist\demo117\demo117.exe","1"&'>'&"2"&'>'&"3")  
